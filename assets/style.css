@@ -1,0 +1,16 @@
+.jumbotron {
+    color: orange;
+    background: green;
+    width: 75%;
+    margin-left: 150px;
+}
+
+#trainschedule {
+    background: aqua;
+    align-content: center;
+    padding: 40px;
+}
+
+body {
+    background: brown;
+}
